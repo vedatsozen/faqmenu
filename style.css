@@ -1,0 +1,36 @@
+button {
+    cursor: pointer;
+}
+
+#header {
+    height:400px;
+    width: 100%;
+    background-color: darkred;
+}
+
+#birinci {
+    margin: auto;
+    margin-top: 5px;
+    height: 400px;
+    width:100%;
+    background-color: green;
+
+}
+
+#ikinci {
+    margin: auto;
+    margin-top: 5px;
+    height: 500px;
+    width:100%;
+    background-color: forestgreen;
+
+}
+
+#ucuncu {
+    margin: auto;
+    margin-top: 5px;
+    height: 500px;
+    width:100%;
+    background-color: black;
+
+}
